@@ -13,6 +13,9 @@ Also for some reason the deaths in the US in January 2020 was not available as w
 ** ** **
 
 Sources:
+
     1. https://www.law.com/texaslawyer/2020/04/17/total-u-s-death-rate-is-still-below-average-cdc-412-96700/
+    
     2. https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm
+    
     3. https://wonder.cdc.gov/
