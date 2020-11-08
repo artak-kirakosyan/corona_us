@@ -19,3 +19,9 @@ Sources:
     2. https://www.cdc.gov/nchs/nvss/vsrr/provisional-tables.htm
     
     3. https://wonder.cdc.gov/
+
+
+# Results
+![Absolute values](absolute.png)
+![Normalized values](normalized_to_1000.png)
+
