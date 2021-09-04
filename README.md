@@ -22,6 +22,9 @@ Sources:
 
 
 # Results
-![Absolute values](absolute.png)
-![Normalized values](normalized_to_1000.png)
+![Update 2021: Absolute values](results/absolute_2021.png)
+![Update 2021: Normalized values](results/normalized_to_1000_2021.png)
+
+![Absolute values](results/absolute.png)
+![Normalized values](results/normalized_to_1000.png)
 
